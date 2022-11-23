@@ -1,0 +1,9 @@
+.navigation{display:-webkit-box;display:-ms-flexbox;display:flex;margin-right:auto;-webkit-box-align:center;-ms-flex-align:center;align-items:center}/*# sourceMappingURL=nav.min.css.map */
+
+.nav__item:last-child {
+  margin-right: 0;
+}
+
+.nav__item {
+  margin-right: 52px;
+}

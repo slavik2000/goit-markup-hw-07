@@ -1,0 +1,22 @@
+.logo {
+  color: var(--color-primary-hover);
+  font-family: var(--secondary-font-famaly);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
+.logo .logo-dark {
+  color: var(--color-black);
+}
+
+.logo .logo-light {
+  color: var(--color-white);
+}
+
+.logo-light {
+  /* color: var(--color-white); */
+}/*# sourceMappingURL=logo.css.map */
